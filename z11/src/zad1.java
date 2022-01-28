@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class zad1 {
+public class zad1 {
 }

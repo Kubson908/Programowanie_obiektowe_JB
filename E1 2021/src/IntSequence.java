@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface IntSequence {
+public interface IntSequence {
+    public static Integer[] of();
+
 }
